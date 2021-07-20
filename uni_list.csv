@@ -1,0 +1,51 @@
+id,url,name,city,country_name,three_digit_country_code,global_rank_values,is_ranked,is_tied,global_score,enrollment
+166027,https://www.usnews.com/education/best-global-universities/harvard-university-166027,Harvard University,Cambridge (U.S.),United States,USA,1,false,true,100.0,100.0
+166683,https://www.usnews.com/education/best-global-universities/massachusetts-institute-of-technology-166683,Massachusetts Institute of Technology,Cambridge (U.S.),United States,USA,2,false,true,97.9,97.9
+243744,https://www.usnews.com/education/best-global-universities/stanford-university-243744,Stanford University,Stanford,United States,USA,3,false,true,95.3,95.3
+110635,https://www.usnews.com/education/best-global-universities/university-of-california-berkeley-110635,University of California--Berkeley,Berkeley,United States,USA,4,false,true,89.8,89.8
+503637,https://www.usnews.com/education/best-global-universities/university-of-oxford-503637,University of Oxford,Oxford,United Kingdom,GBR,5,false,true,87.0,87.0
+190150,https://www.usnews.com/education/best-global-universities/columbia-university-190150,Columbia University,New York City,United States,USA,6,false,true,86.7,86.7
+110404,https://www.usnews.com/education/best-global-universities/california-institute-of-technology-110404,California Institute of Technology,Pasadena,United States,USA,7,false,true,86.3,86.3
+236948,https://www.usnews.com/education/best-global-universities/university-of-washington-236948,University of Washington,Seattle,United States,USA,8,false,true,86.0,86.0
+502149,https://www.usnews.com/education/best-global-universities/university-of-cambridge-502149,University of Cambridge,Cambridge (U.K.),United Kingdom,GBR,9,false,true,85.8,85.8
+162928,https://www.usnews.com/education/best-global-universities/johns-hopkins-university-162928,Johns Hopkins University,Baltimore,United States,USA,10,false,true,85.1,85.1
+186131,https://www.usnews.com/education/best-global-universities/princeton-university-186131,Princeton University,Princeton,United States,USA,11,true,true,85.0,85.0
+130794,https://www.usnews.com/education/best-global-universities/yale-university-130794,Yale University,New Haven,United States,USA,11,true,true,85.0,85.0
+110662,https://www.usnews.com/education/best-global-universities/university-of-california-los-angeles-110662,University of California--Los Angeles,Los Angeles,United States,USA,13,false,true,84.3,84.3
+215062,https://www.usnews.com/education/best-global-universities/university-of-pennsylvania-215062,University of Pennsylvania,Philadelphia,United States,USA,14,false,true,84.2,84.2
+110699,https://www.usnews.com/education/best-global-universities/university-of-california-san-francisco-110699,University of California--San Francisco,San Francisco,United States,USA,15,true,true,84.1,84.1
+144050,https://www.usnews.com/education/best-global-universities/university-of-chicago-144050,University of Chicago,Chicago,United States,USA,15,true,true,84.1,84.1
+170976,https://www.usnews.com/education/best-global-universities/university-of-michigan-ann-arbor-170976,University of Michigan--Ann Arbor,Ann Arbor,United States,USA,17,true,true,83.5,83.5
+499968,https://www.usnews.com/education/best-global-universities/university-of-toronto-499968,University of Toronto,Toronto,Canada,CAN,17,true,true,83.5,83.5
+501693,https://www.usnews.com/education/best-global-universities/university-college-london-501693,University College London,London (U.K.),United Kingdom,GBR,19,false,true,83.4,83.4
+505571,https://www.usnews.com/education/best-global-universities/imperial-college-london-505571,Imperial College London,London (U.K.),United Kingdom,GBR,20,false,true,83.3,83.3
+110680,https://www.usnews.com/education/best-global-universities/university-of-california-san-diego-110680,University of California--San Diego,La Jolla,United States,USA,21,false,true,83.1,83.1
+190415,https://www.usnews.com/education/best-global-universities/cornell-university-190415,Cornell University,Ithaca,United States,USA,22,false,true,81.9,81.9
+198419,https://www.usnews.com/education/best-global-universities/duke-university-198419,Duke University,"Durham (North Carolina, U.S.)",United States,USA,23,false,true,81.6,81.6
+147767,https://www.usnews.com/education/best-global-universities/northwestern-university-147767,Northwestern University,Evanston,United States,USA,24,false,true,80.4,80.4
+501796,https://www.usnews.com/education/best-global-universities/university-of-melbourne-501796,University of Melbourne,Parkville,Australia,AUS,25,false,true,79.7,79.7
+502241,https://www.usnews.com/education/best-global-universities/swiss-federal-institute-of-technology-zurich-502241,Swiss Federal Institute of Technology Zurich,Zurich,Switzerland,CHE,26,false,true,79.5,79.5
+505369,https://www.usnews.com/education/best-global-universities/university-of-sydney-505369,University of Sydney,Sydney,Australia,AUS,27,false,true,79.0,79.0
+503146,https://www.usnews.com/education/best-global-universities/tsinghua-university-503146,Tsinghua University,Beijing,China,CHN,28,false,true,78.5,78.5
+193900,https://www.usnews.com/education/best-global-universities/new-york-university-193900,New York University,New York City,United States,USA,29,false,true,78.4,78.4
+505832,https://www.usnews.com/education/best-global-universities/university-of-edinburgh-505832,University of Edinburgh,Edinburgh,United Kingdom,GBR,30,false,true,78.3,78.3
+499976,https://www.usnews.com/education/best-global-universities/university-of-british-columbia-499976,University of British Columbia,Vancouver,Canada,CAN,31,false,true,77.9,77.9
+505009,https://www.usnews.com/education/best-global-universities/national-university-of-singapore-505009,National University of Singapore,Singapore,Singapore,SGP,32,false,true,77.5,77.5
+179867,https://www.usnews.com/education/best-global-universities/washington-university-in-st-louis-179867,Washington University in St. Louis,St. Louis,United States,USA,33,false,true,77.3,77.3
+500330,https://www.usnews.com/education/best-global-universities/kings-college-london-500330,King's College London,London (U.K.),United Kingdom,GBR,34,true,true,77.2,77.2
+503710,https://www.usnews.com/education/best-global-universities/university-of-copenhagen-503710,University of Copenhagen,Copenhagen,Denmark,DNK,34,true,true,77.2,77.2
+199120,https://www.usnews.com/education/best-global-universities/university-of-north-carolina-chapel-hill-199120,University of North Carolina--Chapel Hill,Chapel Hill,United States,USA,36,true,true,76.9,76.9
+500164,https://www.usnews.com/education/best-global-universities/university-of-queensland-australia-500164,University of Queensland Australia,Brisbane,Australia,AUS,36,true,true,76.9,76.9
+503366,https://www.usnews.com/education/best-global-universities/nanyang-technological-university-503366,Nanyang Technological University,Singapore,Singapore,SGP,38,true,true,76.6,76.6
+228778,https://www.usnews.com/education/best-global-universities/university-of-texas-austin-228778,University of Texas--Austin,Austin,United States,USA,38,true,true,76.6,76.6
+502957,https://www.usnews.com/education/best-global-universities/university-of-amsterdam-502957,University of Amsterdam,Amsterdam,Netherlands,NLD,40,false,true,76.4,76.4
+240444,https://www.usnews.com/education/best-global-universities/university-of-wisconsin-madison-240444,University of Wisconsin--Madison,Madison,United States,USA,41,false,true,76.2,76.2
+501597,https://www.usnews.com/education/best-global-universities/king-abdulaziz-university-501597,King Abdulaziz University,Jeddah,Saudi Arabia,SAU,42,false,true,76.0,76.0
+529569,https://www.usnews.com/education/best-global-universities/sorbonne-universite-529569,Sorbonne Universite,Paris,France,FRA,43,true,true,75.7,75.7
+215293,https://www.usnews.com/education/best-global-universities/university-of-pittsburgh-215293,University of Pittsburgh,Pittsburgh,United States,USA,43,true,true,75.7,75.7
+204796,https://www.usnews.com/education/best-global-universities/ohio-state-university-columbus-204796,Ohio State University--Columbus,Columbus,United States,USA,45,false,true,75.6,75.6
+500951,https://www.usnews.com/education/best-global-universities/university-of-munich-500951,University of Munich,Munich,Germany,DEU,46,false,true,75.5,75.5
+174066,https://www.usnews.com/education/best-global-universities/university-of-minnesota-twin-cities-174066,University of Minnesota--Twin Cities,Minneapolis,United States,USA,47,false,true,75.4,75.4
+504785,https://www.usnews.com/education/best-global-universities/catholic-university-of-leuven-504785,Catholic University of Leuven,Leuven,Belgium,BEL,48,true,true,75.0,75.0
+503151,https://www.usnews.com/education/best-global-universities/karolinska-institute-503151,Karolinska Institute,Stockholm,Sweden,SWE,48,true,true,75.0,75.0
+500301,https://www.usnews.com/education/best-global-universities/monash-university-500301,Monash University,Clayton,Australia,AUS,48,true,true,75.0,75.0

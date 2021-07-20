@@ -1,0 +1,51 @@
+institution_id,institution_name,country,region,website,Agricultural Sciences,Arts and Humanities,Biology and Biochemistry,Biotechnology and Applied Microbiology,Cardiac and Cardiovascular Systems,Cell Biology,Chemical Engineering,Chemistry,Civil Engineering,Clinical Medicine,Computer Science,Economics and Business,Electrical and Electronic Engineering,Endocrinology and Metabolism,Energy and Fuels,Engineering,Environment/Ecology,Gastroenterology and Hepatology,Geosciences,Immunology,Infectious Diseases,Materials Science,Mathematics,Mechanical Engineering,Microbiology,Molecular Biology and Genetics,Nanoscience and Nanotechnology,Neuroscience and Behavior,Oncology,Pharmacology and Toxicology,Physics,Plant and Animal Science,Psychiatry/Psychology,"Public, Environmental and Occupational Health","Radiology, Nuclear Medicine and Medical Imaging",Social Sciences and Public Health,Space Science,Surgery
+166027,Harvard University,United States,North America,http://www.harvard.edu/,26,2,1,1,1,1,,17,,1,16,1,146,1,,24,1,2,6,1,1,8,9,,1,1,13,1,1,1,4,12,1,1,1,1,2,1
+166683,Massachusetts Institute of Technology,United States,North America,http://web.mit.edu/,,16,2,2,107,2,13,3,26,17,2,2,32,68,4,2,114,,7,3,71,4,2,18,2,2,9,3,7,9,1,,24,,29,19,13,
+243744,Stanford University,United States,North America,http://www.stanford.edu,,10,3,3,7,4,31,2,69,3,1,4,47,20,5,8,4,49,26,7,65,2,3,27,15,3,6,4,15,7,2,35,3,8,6,3,8,10
+110635,University of California--Berkeley,United States,North America,http://berkeley.edu/,,12,5,3,,25,48,1,4,137,5,3,35,,27,7,3,,7,65,87,6,7,67,9,19,12,20,,,3,4,31,23,61,14,3,
+503637,University of Oxford,United Kingdom,Europe,http://www.ox.ac.uk/,107,1,7,15,13,19,39,19,,8,12,14,136,3,17,76,7,45,15,11,3,32,8,,4,6,36,10,26,33,11,15,6,5,8,4,14,12
+190150,Columbia University,United States,North America,http://www.columbia.edu,,15,14,81,4,11,,42,,11,24,8,113,19,,91,31,40,4,27,35,47,11,,23,12,61,7,35,49,12,212,4,6,50,8,35,19
+110404,California Institute of Technology,United States,North America,http://www.caltech.edu,,,37,,,51,,14,,,61,,122,,77,57,120,,1,,,58,85,,,56,116,69,,,6,,,,,,1,
+236948,University of Washington,United States,North America,http://www.washington.edu,,80,17,20,12,22,,78,,6,9,42,130,20,43,97,12,40,5,6,6,26,22,,8,6,26,22,13,8,17,41,29,11,28,7,35,6
+502149,University of Cambridge,United Kingdom,Europe,http://www.cam.ac.uk/,,3,4,5,64,8,45,15,84,22,35,17,141,6,32,52,21,44,20,56,79,17,5,54,19,9,19,14,34,43,9,14,20,8,47,12,4,33
+162928,Johns Hopkins University,United States,North America,http://www.jhu.edu,102,84,9,14,8,7,,160,,2,43,171,218,15,,134,216,10,163,4,2,118,116,,13,5,138,6,2,5,100,,26,2,3,2,18,2
+186131,Princeton University,United States,North America,http://www.princeton.edu,,18,57,,,91,59,18,,360,33,16,34,,89,64,17,,10,,,131,4,22,71,79,217,51,,,8,70,39,,,62,5,
+130794,Yale University,United States,North America,http://www.yale.edu/,,5,20,72,40,13,,45,,13,124,12,,7,,254,10,32,32,10,23,105,87,,25,18,137,13,12,69,17,55,4,29,26,13,22,36
+110662,University of California--Los Angeles,United States,North America,http://www.ucla.edu/,,13,18,27,46,12,,22,65,10,27,40,102,41,,68,36,38,14,36,28,14,12,,26,15,16,11,5,47,34,65,9,36,13,15,44,17
+215062,University of Pennsylvania,United States,North America,http://www.upenn.edu,,14,19,23,10,9,,73,,7,67,5,271,9,,225,,8,,8,29,69,58,,7,8,98,7,10,36,53,114,12,43,12,21,67,7
+110699,University of California--San Francisco,United States,North America,http://www.ucsf.edu/,,,6,31,18,3,,403,,3,440,,,17,,,,15,,2,5,,,,3,4,,2,6,13,,,28,10,16,24,,5
+144050,University of Chicago,United States,North America,http://www.uchicago.edu,,19,26,120,103,28,50,13,,43,110,6,89,99,29,53,141,57,64,37,,33,16,63,21,22,53,90,22,97,5,191,43,161,77,63,10,69
+170976,University of Michigan--Ann Arbor,United States,North America,http://www.umich.edu,,9,13,57,14,26,67,40,54,12,10,10,88,23,51,19,33,16,66,33,12,44,21,29,43,20,71,44,9,19,27,75,13,24,38,6,30,8
+499968,University of Toronto,Canada,North America,http://www.utoronto.ca,154,8,10,15,6,10,160,35,93,5,31,27,82,5,124,54,66,9,42,27,27,56,36,74,39,11,60,17,4,18,30,60,8,12,9,10,12,4
+501693,University College London,United Kingdom,Europe,http://www.ucl.ac.uk/,,4,12,19,24,18,94,62,84,15,17,44,45,10,82,86,32,12,36,16,8,122,67,,68,21,87,5,21,14,66,160,7,7,2,5,32,15
+505571,Imperial College London,United Kingdom,Europe,http://www3.imperial.ac.uk/,,,21,40,2,40,19,28,62,14,25,28,30,3,23,15,9,21,45,13,7,46,14,11,11,31,65,36,50,28,29,95,84,4,14,22,49,22
+110680,University of California--San Diego,United States,North America,http://www.ucsd.edu/,,52,8,6,69,6,,52,97,19,21,66,91,30,179,54,78,1,18,19,51,61,88,,5,9,73,12,41,3,72,28,23,28,27,32,112,56
+190415,Cornell University,United States,North America,http://www.cornell.edu,8,62,11,10,98,5,124,38,,27,14,21,256,100,98,121,34,34,90,16,49,71,86,,6,16,110,63,3,72,23,3,49,112,31,42,63,27
+198419,Duke University,United States,North America,http://www.duke.edu/,,38,23,75,3,39,,150,,9,85,18,171,14,,194,12,31,126,32,35,109,40,,12,29,101,29,19,26,67,16,16,48,11,18,,16
+147767,Northwestern University,United States,North America,http://www.northwestern.edu,,39,51,185,15,49,43,5,,26,125,13,309,62,40,144,,24,,74,,15,113,,126,97,42,35,38,137,51,,34,53,69,50,113,30
+501796,University of Melbourne,Australia,Australia/New Zealand,http://www.unimelb.edu.au/ ,68,17,30,29,113,46,209,150,76,37,68,43,197,88,214,147,48,60,85,12,19,111,152,,16,34,138,21,29,60,75,42,14,15,100,24,114,140
+502241,Swiss Federal Institute of Technology Zurich,Switzerland,Europe,https://www.ethz.ch/en.html,27,,15,35,,34,72,23,33,349,6,60,41,,61,13,5,,3,,,35,10,80,49,114,49,80,,,13,38,195,,45,68,48,
+505369,University of Sydney,Australia,Australia/New Zealand,http://sydney.edu.au/ ,34,11,105,131,53,101,182,164,31,23,47,51,22,18,145,40,86,54,118,81,46,139,237,31,56,75,207,44,8,39,145,34,37,34,56,28,39,39
+503146,Tsinghua University,China,Asia,http://www.tsinghua.edu.cn/publish/newthuen/ ,,,27,17,,43,1,6,2,292,4,56,1,,2,1,23,,27,83,,3,36,3,103,71,2,194,,,10,145,,,158,87,143,
+193900,New York University,United States,North America,http://www.nyu.edu,,6,23,,67,21,,339,,41,38,9,49,153,,127,,,,47,,354,13,,36,35,,16,27,175,131,,22,67,20,30,66,38
+505832,University of Edinburgh,United Kingdom,Europe,http://www.ed.ac.uk/home,,7,40,45,38,57,,209,,46,51,104,121,38,216,178,51,76,68,44,65,333,81,,28,24,,30,110,35,36,62,60,30,108,58,26,25
+499976,University of British Columbia,Canada,North America,http://you.ubc.ca/,39,46,37,24,48,80,140,156,63,38,48,54,18,84,134,63,11,,58,79,59,194,45,,53,66,224,40,71,78,58,6,25,19,37,17,40,57
+505009,National University of Singapore,Singapore,Asia,http://www.nus.edu.sg/,33,61,32,47,95,44,7,9,5,59,8,15,6,79,11,5,63,73,210,72,,9,27,30,34,33,14,89,118,20,89,105,106,102,149,52,,160
+179867,Washington University in St. Louis,United States,North America,http://www.wustl.edu,,152,28,85,51,15,,435,,20,358,117,,59,,431,246,78,245,5,58,255,,,9,14,,9,20,117,398,123,55,94,18,90,250,8
+500330,King's College London,United Kingdom,Europe,http://www.kcl.ac.uk/index.aspx,,24,65,52,70,59,,478,,33,152,210,42,28,,158,262,38,,46,93,,,,,43,,15,100,50,78,,2,33,4,39,,60
+503710,University of Copenhagen,Denmark,Europe,http://www.ku.dk/english/ ,17,60,15,13,19,24,,177,,30,153,141,,2,,516,14,27,50,59,33,,103,,22,28,214,64,61,6,55,10,99,26,23,31,24,34
+199120,University of North Carolina--Chapel Hill,United States,North America,http://www.unc.edu,,77,46,53,102,30,,82,,25,45,79,,8,,250,93,11,215,29,11,89,67,,14,25,124,44,29,2,502,108,19,13,32,9,186,62
+500164,University of Queensland Australia,Australia,Australia/New Zealand,http://www.uq.edu.au/ ,15,44,50,10,114,69,91,93,89,53,71,58,176,91,67,90,6,,124,41,20,70,,52,27,27,73,58,83,17,403,19,36,25,118,26,,123
+503366,Nanyang Technological University,Singapore,Asia,http://www.ntu.edu.sg/Pages/home.aspx,,78,110,82,,228,3,4,13,253,7,97,4,,1,3,146,,116,,,1,213,33,103,235,1,,,,117,,181,,,130,,
+228778,University of Texas--Austin,United States,North America,http://www.utexas.edu,,23,117,110,,204,62,24,48,305,34,58,14,,37,39,74,,19,,,23,18,,95,245,36,109,,160,28,73,41,220,,45,37,
+502957,University of Amsterdam,Netherlands,Europe,http://www.uva.nl/en/home,,22,127,176,16,53,,180,,40,93,52,,40,,,89,7,,22,22,,209,,67,51,,43,85,95,79,47,10,120,44,23,69,11
+240444,University of Wisconsin--Madison,United States,North America,http://www.wisc.edu,25,27,42,42,156,94,84,30,,106,39,80,182,115,92,111,27,,31,80,,73,15,,18,67,101,60,108,89,38,20,39,176,25,36,53,78
+501597,King Abdulaziz University,Saudi Arabia,Asia,http://www.kau.edu.sa/home_ENGLISH.aspx,23,,31,8,,,4,7,,287,30,,15,139,25,,116,,222,,,35,,,,39,27,,,61,223,203,,,,485,,
+529569,Sorbonne Universite,France,Europe,https://www.sorbonne-universite.fr/en/university,84,102,29,43,29,30,227,76,,57,92,,237,85,211,215,54,18,16,40,44,147,1,,66,32,150,33,47,77,15,77,224,174,64,161,6,45
+215293,University of Pittsburgh,United States,North America,http://www.pitt.edu/,,36,53,137,48,42,,161,,18,125,157,306,35,,305,,26,,30,13,183,140,,39,98,198,24,22,43,146,,20,70,80,67,150,3
+204796,Ohio State University--Columbus,United States,North America,http://www.osu.edu,40,27,80,41,96,87,142,144,,44,85,69,97,167,152,87,85,94,80,87,,120,78,78,48,76,206,84,18,56,31,57,47,114,149,48,16,29
+500951,University of Munich,Germany,Europe,http://www.en.uni-muenchen.de/index.html ,,35,36,172,56,36,,127,,51,161,92,,92,,,165,52,103,21,81,88,145,,86,55,112,25,44,108,26,81,35,73,14,106,28,101
+174066,University of Minnesota--Twin Cities,United States,North America,http://www.umn.edu,43,93,74,28,54,89,136,53,,64,94,35,164,77,167,116,8,97,65,38,43,149,20,,33,60,178,67,138,55,55,8,30,76,84,36,107,20
+504785,Catholic University of Leuven,Belgium,Europe,http://www.kuleuven.be/english ,36,24,56,66,37,35,34,79,10,24,55,47,122,24,81,51,107,6,150,55,84,111,57,57,30,40,185,55,17,16,355,139,15,123,19,63,109,21
+503151,Karolinska Institute,Sweden,Europe,http://ki.se/en/startpage,,,22,33,32,17,,603,,16,,,,16,,,332,17,,14,18,,,,51,17,,18,35,11,,,11,22,86,53,,18
+500301,Monash University,Australia,Australia/New Zealand,http://www.monash.edu.au/ ,135,58,54,57,62,77,40,51,18,62,114,26,274,50,64,97,100,66,74,23,26,51,222,76,56,143,55,78,170,4,163,181,88,68,155,47,86,153
